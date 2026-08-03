@@ -1,6 +1,6 @@
 # test
 
-test repo — diff 렌더링 확인용 샘플 저장소.
+test repo — 이 줄은 C5에서 고쳤다가 C6에서 원래대로 되돌립니다.
 
 ## 목적
 
